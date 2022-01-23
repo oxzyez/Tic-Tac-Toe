@@ -1,0 +1,39 @@
+body {
+    background: url(./asset/background.jpg);
+    margin: 0;
+    padding: 0;
+}
+.icon {
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 300;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.title {
+    font-family: 'Dongle', sans-serif;
+    font-size: 100px;
+    color: #ffffff;
+    padding-top: 2cm;
+    margin-left: 11cm;
+}
+a.play_btn {
+    background-color: #01682a;
+    font-family: 'Dongle', sans-serif;
+    border-radius: 20px;
+    margin-left: 17cm;
+    margin-top: 20px;
+    padding: 15px 40px 15px 40px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+a.play_btn:hover {
+    background: #04b94c;
+    text-decoration: none;
+}
+
+
+
+
+
